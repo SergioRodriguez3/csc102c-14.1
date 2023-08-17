@@ -1,0 +1,33 @@
+/* main.css */
+
+/* Body properties */
+body {
+    background-color: #f2f2f2;
+    color: #333333;
+  }
+  
+  /* Nav properties */
+  nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+  }
+  
+  /* Footer properties */
+  footer {
+    text-align: center;
+    margin-right: 200px;
+  }
+  
+  /* #memeImage properties */
+  #memeImage {
+    margin-right: 200px;
+  }
+  
+  /* Header properties */
+  header {
+    text-align: center;
+  }
+  
